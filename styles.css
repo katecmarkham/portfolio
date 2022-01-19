@@ -1,0 +1,28 @@
+
+	h2 {
+		margin-left: 200px;
+		width: 200px;
+		background-color: #e75480;
+	}
+	.boring-stuff li {
+		font-size: 25px;
+		color: #FF69B4;
+	}
+	p {
+                color: #FF69B4;
+                background-color: #FFB6C1;
+        }
+	.nav-bar {
+		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+	}
+	.nav-bar li {
+		display: inline;
+		float: left;
+	}
+	a {
+  		display: block;
+  		padding: 8px;
+  		background-color: #FFC0CB;
+	}
